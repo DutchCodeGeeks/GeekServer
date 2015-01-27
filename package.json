@@ -1,0 +1,22 @@
+{
+  "name": "GeekServer",
+  "version": "0.0.1",
+  "description": "A modular/moddable NodeJS Minecraft server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DutchCodeGeeks/GeekServer.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "DutchCodeGeeks",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/DutchCodeGeeks/GeekServer/issues"
+  },
+  "homepage": "https://github.com/DutchCodeGeeks/GeekServer"
+}

@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DutchCodeGeeks/GeekServer/issues"
   },
-  "homepage": "https://github.com/DutchCodeGeeks/GeekServer"
+  "homepage": "https://github.com/DutchCodeGeeks/GeekServer",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
 }
